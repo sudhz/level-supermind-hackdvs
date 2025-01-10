@@ -1,5 +1,6 @@
 # Setup
-1. Run langflow locally
+
+1. Run [langflow locally](https://docs.langflow.org/get-started-installation)
 2. Import the [Social Media Insights](<https://github.com/sudhz/sudhz-level-supermind-hackdvs/blob/master/flow/Social%20Media%20Insights%20(No%20API%20Keys).json>) flow.
 3. Enter all the required API keys.
 4. Run the flow once for yourself to see how it works.
