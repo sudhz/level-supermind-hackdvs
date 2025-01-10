@@ -8,3 +8,6 @@
 6. Go to the `frontend` folder and start it using `npm run dev`.
 7. Go to the `backend` folder and start it using `node index.js` as another process.
 8. Go to https://localhost:5173 to access the frontend interface and use the web app.
+
+# Dataset used:
+https://www.kaggle.com/datasets/aliredaelblgihy/social-media-engagement-report
